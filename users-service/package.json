@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@types/sequelize": "^4.28.2",
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "bluebird": "^3.5.5",
     "body-parser": "^1.19.0",
     "debug": "^4.1.1",
